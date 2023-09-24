@@ -35,7 +35,7 @@ section {
 }
 
 .header {
-    padding: fixed;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -327,6 +327,7 @@ span {
 .portfolio-layer a i {
     font-size: 2rem;
     color: var(--main-color);
+    padding: 8px;
 }
 
 .contact {
