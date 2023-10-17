@@ -249,6 +249,14 @@ span {
     
 }
 
+.services-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
 .portfolio {
     background-color: var(--second-bg-color);
     padding-bottom: 100px;
